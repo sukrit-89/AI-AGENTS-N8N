@@ -1,4 +1,4 @@
-# n8n Learning Journey 🚀
+# N8N Learning Journey 🚀
 
 Welcome to my n8n learning repository! This is a comprehensive collection of my exploration into **n8n workflow automation** and **AI Agents**, documenting my journey from beginner to building production-ready AI-powered workflows.
 
@@ -139,7 +139,7 @@ As I continue my n8n learning journey, I plan to explore:
 - Document your workflows thoroughly
 - Version control your workflow JSON files
 
-## � Tools & Services Used
+##  Tools & Services Used
 
 - **n8n** - Workflow automation platform
 - **Google Drive** - Document storage and monitoring
@@ -147,7 +147,7 @@ As I continue my n8n learning journey, I plan to explore:
 - **HuggingFace** - Embedding models
 - **OpenRouter** - LLM access (Mistral-7B)
 
-## � Notes
+##  Notes
 
 This is an active learning repository. As I build more workflows and deepen my understanding, I'll continue to:
 - Add new workflow examples
