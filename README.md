@@ -174,11 +174,11 @@ Located in the `Docs/` folder - here's what I've been studying:
 Visual demonstrations of the workflows in action:
 
 #### Chatbot Interface
-![Chatbot Demo](Examples/chatbot.png)
+![Chatbot Demo](Examples/RAG-CHATBOT/chatbot.png)
 *Interactive chat interface powered by the RAG system*
 
 #### Vector Store Configuration
-![Vector Store Setup](Examples/vectore-store.png)
+![Vector Store Setup](Examples/RAG-CHATBOT/vectore-store.png)
 *Pinecone vector store configuration and embedding setup*
 
 ---
